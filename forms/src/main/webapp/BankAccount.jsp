@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>Bank Account</h2>
-    <form action="bank account" method="post">
+    <form action="bankAccount" method="post">
         Account Holder Name: <input type="text" id="accountHolder" name="accountHolder"><br><br>
         Account Type: <input type="text" id="accountType" name="accountType"><br><br>
         Branch: <input type="text" id="branch" name="branch"><br><br>
